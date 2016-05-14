@@ -1,0 +1,7 @@
+{
+	"src": "lib",
+	"dest": "dist",
+	"tasks": {
+		"transpile": ["."]
+	}
+}
